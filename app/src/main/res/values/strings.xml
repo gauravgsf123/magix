@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">MPCL</string>
+    <string name="attedance">Attendance</string>
+    <string name="operation">Operation</string>
+    <string name="tracking">Tracking</string>
+    <string name="company_id">Company Id</string>
+    <string name="emp_code">Employee Code</string>
+    <string name="next">Next</string>
+    <string name="Name">Name</string>
+
+
+    <string name="username_hint">phone number, email, or username</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="already_signedin">You are now done with login. Move to your real MainActivity</string>
+    <string name="title_activity_enable_biometric_login">Enable BiometricLogin</string>
+    <string name="enable_biometric_login">Enable Biometric Login</string>
+    <string name="desc_biometrics_authorization">Enter your login ID and password to confirm activation of Biometric Login.</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn_authorize">Authorize</string>
+    <string name="prompt_info_title">MPCL App Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">MPCL App is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password</string>
+    <string name="secret_key_name">biometric_sample_encryption_key</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="branch">Branch</string>
+    <string name="select_option">Select Option</string>
+    <string name="registration">Registration</string>
+    <string name="attendance">Attendance</string>
+    <string name="required_field">Required Filed</string>
+    <string name="vaerify_save"><![CDATA[Verify & Save]]></string>
+    <string name="vaerify_next"><![CDATA[Verift & Next]]></string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_internet_connection">You have no any Internet Connection. Please check you Mobile Data or WIFI.</string>
+    <string name="success">Success</string>
+    <string name="your_registration_completed">Your Registration has completed.</string>
+    <string name="your_attendance_done">Your Attendance Mark Successfully.</string>
+    <string name="submit">Submit</string>
+    <string name="bar_code">Bar Code</string>
+    <string name="ac_copy_upload">A/C Copy Upload</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="opps">Opps</string>
+    <string name="congrats_data_successful_uploaded">Congrats, Data successfully uploaded.</string>
+    <string name="warning">Warning</string>
+    <string name="enter_company_id">Please enter all fields for success</string>
+    <string name="scan">Scan</string>
+    <string name="ekart">EKart Location</string>
+    <string name="take_selfie">Take Salfie</string>
+    <string name="location_not_found">Location not found.</string>
+    <string name="vehicle">Vehicle Load/Unload</string>
+    <string name="box_no">Box No.</string>
+    <string name="document_no">Document No.</string>
+    <string name="save">Save</string>
+    <string name="scan_box">Scan Box</string>
+    <string name="total_box">Total Box</string>
+    <string name="type">Type</string>
+    <string name="stock_checking">Stock Checking</string>
+    <string name="scan_by">Scan By</string>
+    <string name="location">Location</string>
+    <string name="ok">Ok</string>
+    <string name="employee_no">Employee No.</string>
+    <string name="branch_name">Branch Name</string>
+    <string name="check">Check</string>
+    <string name="bar_code_setting">Bar Code Setting</string>
+    <string name="printer_setup">Printer Setup</string>
+    <string name="sticker_printing">Sticker Printing</string>
+    <string name="last_connected_device">Last Connected Device</string>
+    <string name="add_new_device">Add New Device</string>
+    <string name="ip_mac_address">IP/MAC Address</string>
+    <string name="trip_sheet_no">Trip Sheet No.</string>
+    <string name="c_note_number">C Note Number</string>
+    <string name="carton_no">Carton No</string>
+    <string name="add">Add</string>
+    <string name="register_to">Register to</string>
+    <string name="test_device">Test Device</string>
+    <string name="new_scan">New Scan</string>
+    <string name="magix">MAGIX</string>
+    <string name="webview">Webview</string>
+    <string name="total_hu">Total HU</string>
+    <string name="scan_hu">Scan HU</string>
+    <string name="status">Status</string>
+    <string name="pickup_scan">Pickup Scan</string>
+    <string name="todo">TODO</string>
+    <string name="pincode_finder">Pincode Finder</string>
+    <string name="pickup">Pickup</string>
+    <string name="pickup_pincode">Pickup Pincode</string>
+    <string name="location_scan">Location Scan</string>
+    <string name="barcode_already_scan">Barcode already scan</string>
+    <string name="wrong_barcode_scan">Wrong barcode scan</string>
+    <string name="data_not_available">Data Not Available</string>
+    <string name="you_are_not_on_location">You are not on location.</string>
+    <string name="something_wrong_please_try_again">Something wrong! Please try again</string>
+    <string name="view">View</string>
+    <string name="date_card_formate">dd/MM/yyyy</string>
+    <string name="alert_date_select">Select Date</string>
+    <string name="request_no">Request No.</string>
+    <string name="pickup_date">Date :</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="update">Update</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="instruction">Instruction</string>
+    <string name="pcs">PCS</string>
+    <string name="pickup_update">Pickup Update</string>
+    <string name="contact_person_name">Contact Person Name</string>
+    <string name="new_c_note_number">New C Note Number</string>
+    <string name="contact_person_no">Contact Person Number</string>
+    <string name="select">Select</string>
+    <string name="pod_upload">Pod Upload</string>
+    <string name="drs_date">Delivery Date</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_send_to_your_register_mobile_number">OTP send to your register mobile number</string>
+    <string name="verify">Verify</string>
+    <string name="scheduled">Scheduled</string>
+    <string name="all">All</string>
+    <string name="completed">Completed</string>
+    <string name="time">Time</string>
+    <string name="today">Today</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="tonight">Tonight</string>
+    <string name="Notes">Notes</string>
+    <string name="add_task">Add Task</string>
+    <string name="search">Search</string>
+    <string name="find">Find</string>
+    <string name="c_note_date">C Note Date</string>
+    <string name="edd">EDD</string>
+    <string name="edd_date">EDD Date</string>
+    <string name="add_date">Add Date</string>
+    <string name="destination">Destination</string>
+    <string name="origin">Origin</string>
+    <string name="consignee">Consignee</string>
+    <string name="consignor">Consignor</string>
+    <string name="current_status">Current Status</string>
+    <string name="please_enter_document_number">Please enter document number.</string>
+    <string name="please_select_document_type">Please select document type.</string>
+    <string name="box_packing">Box Packing</string>
+    <string name="pickup_no">Pickup Number</string>
+    <string name="item_barcode">Item Barcode</string>
+    <string name="total_scan">Total Scan</string>
+    <string name="master_box_no">Master Box Number</string>
+    <string name="seal_no">Seal Number</string>
+    <string name="sku_barcode">SKU Barcode</string>
+    <string name="total_sku">Total SKU</string>
+    <string name="vehicle_no">Vehicle Number</string>
+    <string name="box_wise_scan">Box Wise Scan</string>
+    <string name="unloading">Unloading</string>
+    <string name="loading">Loading</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+    <string name="delivered">Delivered</string>
+    <string name="undelivered">Undelivered</string>
+    <string name="rto">R.T.O</string>
+    <string name="ekart_location">Ekart Location</string>
+    <string name="flipkart">Flipkart</string>
+
+    <string-array name="pickup_update_option">
+        <item>Pickup Done</item>
+        <item>Pickup Not Done</item>
+    </string-array>
+
+    <string-array name="pod_status_type">
+        <item>Delivered</item>
+        <item>Undelivered</item>
+        <item>R.T.O</item>
+    </string-array>
+
+    <string-array name="document_type_option">
+        <item>CNOTE</item>
+        <item>BARCODE</item>
+        <item>INVOICE</item>
+    </string-array>
+
+    <string-array name="delivery_type_option">
+        <item>Internal</item>
+        <item>External</item>
+    </string-array>
+
+</resources>
